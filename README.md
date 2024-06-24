@@ -1,2 +1,2 @@
-# desing_patterns_practice
+# design_patterns_practice
 Practice design patterns
